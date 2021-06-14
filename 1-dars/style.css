@@ -1,0 +1,261 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    
+}
+.asos{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    height: 100vh;
+    
+    
+}
+.content{
+    border:1px solid red;
+    border-radius:10px;
+    width: 800px;
+    height: 500px;
+    background-color: black;
+   
+    border-radius: 10px;
+    
+}
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    width: 160px;
+    height: 160px;
+    border-radius: 5px;
+}
+button{
+    
+    width: 100px;
+    padding: 5px;
+    background-color: black;
+    opacity: .7;
+    color: white;
+    outline:none;
+    margin:5px 0 0 0;
+    border-radius: 10px;
+    
+}
+#btn{
+   
+   
+    width: 200px;
+    padding: 5px;
+    font-weight: 900;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+    opacity: .7;
+   
+
+}
+.asos1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+}
+
+.content1{
+    
+   border:1px solid red;
+    border-radius:10px;
+    width: 800px;
+    height: 500px;
+    background-color: black;
+    
+    border-radius: 10px;
+    display: flex ;
+    align-items: center;
+    flex-direction: column;
+    display:none;
+}
+.div11{
+    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display:none;
+    
+    
+}
+.div12{
+    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    display:none;
+   
+    
+}
+.div13{
+    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    display:none;
+    
+    
+}
+.div14{
+    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display:none;
+   
+   
+}
+.div15{
+   
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+     display:none;
+    
+    
+}
+.div16{
+    
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px 20px 10px 40px;
+    float: left;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    display:none;
+   
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+#btn10{
+    display:none;
+    width: 200px;
+    padding: 5px;
+    font-weight: 900;
+    border-radius: 0;
+    background-color: black;
+    color: white;
+    opacity: .7;
+
+}
